@@ -1,4 +1,4 @@
-php-on-pails
+PHP on Pails
 ============
 
 Framework for PHP
