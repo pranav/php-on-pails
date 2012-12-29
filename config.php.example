@@ -1,0 +1,8 @@
+<?php
+
+define("DB_LOCATION", "localhost"); # Set to the location of the database
+define("DB_NAME", "pails");         # Please set to the name of your database
+define("DB_USER", "pails");         # Set to the database username
+define("DB_PASS", "pails");         # Set to the database password
+
+?>
